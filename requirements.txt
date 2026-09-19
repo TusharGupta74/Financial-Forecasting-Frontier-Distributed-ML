@@ -1,0 +1,6 @@
+pyspark>=4.0.0
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
